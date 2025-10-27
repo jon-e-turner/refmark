@@ -1,6 +1,6 @@
 # RefMark
 
-JavaScript benchmarking suite designed to acquire two or more git refs, build them, then execute the requested tests. Uses 0x under the hood.
+C# CLI benchmarking suite designed to acquire two or more git refs, build them, then execute the requested tests. Uses 0x under the hood.
 
 ## Set-up
 
@@ -11,4 +11,3 @@ JavaScript benchmarking suite designed to acquire two or more git refs, build th
 1. Configure the benchmark tests
 1. ???
 1. Profit (maybe?)
-
